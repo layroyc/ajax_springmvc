@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ajax 和mvc收参数zy:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ajax_mvczy_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ajax 和mvc收参数zy/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ajax 和mvc收参数zy" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
